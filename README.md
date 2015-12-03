@@ -1,7 +1,7 @@
 user-status [![Build Status](https://travis-ci.org/mizzao/meteor-user-status.png?branch=master)](https://travis-ci.org/mizzao/meteor-user-status)
 ===========
 
-## What's this do?
+## What's this do?!!
 
 Keeps track of user connection data, such as IP addresses, user agents, and
 client-side activity, and tracks this information in `Meteor.users` as well as
